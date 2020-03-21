@@ -3,7 +3,7 @@ Unity Sesli komut uygulaması anlatımlı
 [![IMAGE ALT TEXT HERE](https://i.resimyukle.xyz/4CHzHG.jpg)](https://youtu.be/64JxEPpYjcY)
 
 # Bilgi
-### Kodları buraya da yazıyorum ama buradan kopyalamayın dosyalar kısmından kod.cs 'yi indirin. Buraya sadece açıklamak için ekledim. Hata çıkabilir.
+### Kodları buraya da yazıyorum ama buradan kopyalamayın dosyalar kısmından Ses.cs 'yi indirin. Buraya sadece açıklamak için ekledim. Hata çıkabilir.
 
 # Kodların Anlamları
 
